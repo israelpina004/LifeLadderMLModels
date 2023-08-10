@@ -5,6 +5,6 @@ The included Jupyter notebook contains the code and resulting output for testing
 
 + Linear regression
 + Neural network
-+ Ensemble model
++ Stacked regression model
 
 The metrics used to determine the quality of each model determine that, given this set of data, the ensemble model works best, with an r^2 value of about 0.9.
