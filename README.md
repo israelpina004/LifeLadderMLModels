@@ -7,4 +7,4 @@ The included Jupyter notebook contains the code and resulting output for testing
 + Neural network
 + Stacked regression model
 
-The metrics used to determine the quality of each model determine that, given this set of data, the ensemble model works best, with an r^2 value of about 0.9.
+The metrics used to determine the quality of each model were root mean square and r^2 value. These metrics determined that, given this set of data, the ensemble model works best, with an r^2 value of about 0.9.
