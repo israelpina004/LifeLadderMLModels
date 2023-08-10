@@ -1,4 +1,4 @@
-# LifeLadderMLModels
+# Comparing Machine Learning Models
 
 The included Jupyter notebook contains the code and resulting output for testing three models with the World Health Organization's data from
 2018 concerning various countries' life ladder scores. The models tested are:
